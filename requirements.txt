@@ -1,0 +1,4 @@
+pandas>=1.4.4
+pytorch_lightning==1.7.6
+jupyter>=1.0.0
+sklearn
